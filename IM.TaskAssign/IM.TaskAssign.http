@@ -1,0 +1,6 @@
+@IM.TaskAssign_HostAddress = http://localhost:5042
+
+GET {{IM.TaskAssign_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
